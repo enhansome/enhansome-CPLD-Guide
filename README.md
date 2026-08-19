@@ -102,7 +102,7 @@ Xilinx CoolRunner-II CPLD
 
 [LabVIEW FPGA](https://www.ni.com/en-us/shop/software/products/labview-fpga-module.html) is a software add-on for LabVIEW that you can use to more efficiently and effectively design FPGA-based systems through a highly integrated development environment, IP libraries, a high-fidelity simulator, and debugging features.
 
-[Apio](https://github.com/FPGAwars/apio) ⭐ 1,004 | 🐛 41 | 🌐 Python | 📅 2026-08-19 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
+[Apio](https://github.com/FPGAwars/apio) ⭐ 1,004 | 🐛 40 | 🌐 Python | 📅 2026-08-19 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
 
 [IceStorm](https://github.com/YosysHQ/icestorm) ⭐ 1,181 | 🐛 71 | 🌐 Python | 📅 2026-02-26 is a project that aims at documenting the bitstream format of Lattice iCE40 FPGAs and providing simple tools for analyzing and creating bitstream files.
 
@@ -110,7 +110,7 @@ Xilinx CoolRunner-II CPLD
 
 [FuseSoC](https://github.com/olofk/fusesoc) ⭐ 1,451 | 🐛 155 | 🌐 Python | 📅 2026-08-11 is an award-winning package manager and a set of build tools for HDL (Hardware Description Language) code and FPGA/ASIC development.
 
-[OpenWiFi](https://github.com/open-sdr/openwifi) ⭐ 4,758 | 🐛 93 | 🌐 C | 📅 2026-08-14 is an open-source IEEE802.11/Wi-Fi baseband chip/FPGA design.
+[OpenWiFi](https://github.com/open-sdr/openwifi) ⭐ 4,759 | 🐛 93 | 🌐 C | 📅 2026-08-14 is an open-source IEEE802.11/Wi-Fi baseband chip/FPGA design.
 
 [PipeCNN](https://github.com/doonny/PipeCNN) ⭐ 1,386 | 🐛 44 | 🌐 C | 📅 2022-02-14 is an OpenCL-based FPGA Accelerator for Large-Scale Convolutional Neural Networks (CNNs). Currently, there is a growing trend among developers in the FPGA community to utilize High Level Synthesis (HLS) tools to design and implement customized circuits on FPGAs.
 
@@ -133,7 +133,7 @@ Xilinx CoolRunner-II CPLD
 [Chipyard](https://chipyard.readthedocs.io/en/latest/) is an open source framework for agile development of Chisel-based systems-on-chip. It will allow you to leverage the Chisel HDL, Rocket Chip SoC generator, and other [Berkeley](https://berkeley.edu/) projects to produce a RISC-V SoC with everything from MMIO-mapped peripherals to custom accelerators.
 
 [The Eclipse Embedded CDT](https://github.com/eclipse-embed-cdt/eclipse-plugins) ⭐ 560 | 🐛 106 | 🌐 C | 📅 2026-03-04 is a collection of plug-ins for Arm & RISC-V C/C++ developers.
-[Unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,243 | 🐛 212 | 🌐 C | 📅 2026-07-30 is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
+[Unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,246 | 🐛 212 | 🌐 C | 📅 2026-07-30 is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
 
 [Keystone](https://github.com/keystone-engine/keystone) ⭐ 2,622 | 🐛 243 | 🌐 C++ | 📅 2026-07-18 is a lightweight multi-platform, multi-architecture(Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) assembler framework.
 
@@ -268,7 +268,7 @@ Xilinx CoolRunner-II CPLD
 
 [Apple Paravirtualized Graphics Framework](https://developer.apple.com/documentation/paravirtualizedgraphics) is a framework that implements hardware-accelerated graphics for macOS running in a virtual machine, hereafter known as the guest. The operating system provides a graphics driver that runs inside the guest, communicating with the framework in the host operating system to take advantage of Metal-accelerated graphics.
 
-[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,123 | 🐛 228 | 🌐 Rust | 📅 2026-08-19 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
+[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,124 | 🐛 228 | 🌐 Rust | 📅 2026-08-19 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
 
 [VMware vSphere Hypervisor](https://www.vmware.com/products/vsphere-hypervisor.html) is a bare-metal hypervisor that virtualizes servers; allowing you to consolidate your applications while saving time and money managing your IT infrastructure.
 
@@ -369,7 +369,7 @@ Xilinx CoolRunner-II CPLD
 
 [Linux Vendor Firmware Service(LVFS)](https://fwupd.org) is a secure portal which allows hardware vendors to upload firmware updates.
 
-[fwupd](https://github.com/fwupd/fwupd) ⭐ 4,118 | 🐛 99 | 🌐 C | 📅 2026-08-19 is a simple daemon to allow session software to update firmware. The goal og project is to make updating firmware on Linux automatic, safe and reliable.
+[fwupd](https://github.com/fwupd/fwupd) ⭐ 4,119 | 🐛 103 | 🌐 C | 📅 2026-08-19 is a simple daemon to allow session software to update firmware. The goal og project is to make updating firmware on Linux automatic, safe and reliable.
 
 [CHIPSEC](https://chipsec.github.io/) is a framework for analyzing the security of PC platforms including hardware, system firmware (BIOS/UEFI), and platform components. It includes a security test suite, tools for accessing various low level interfaces, and forensic capabilities. It can be run on Windows, Linux, Mac OS X and UEFI shell.
 
@@ -391,15 +391,15 @@ Xilinx CoolRunner-II CPLD
 
 [System76 Firmware](https://github.com/pop-os/system76-firmware) ⭐ 78 | 🐛 21 | 🌐 Rust | 📅 2026-08-18 is a software package that has a CLI(command-line inferface) tool for installing firmware updates. Also, included is the system76-firmware-daemon package, which has a systemd service that exposes a DBUS API for handling firmware updates.
 
-[Firmware Manager](https://github.com/pop-os/firmware-manager) ⭐ 159 | 🐛 23 | 🌐 Rust | 📅 2025-10-27 is a generic framework and GTK UI for firmware updates from [system76-firmware](https://github.com/pop-os/system76-firmware) ⭐ 78 | 🐛 21 | 🌐 Rust | 📅 2026-08-18 and [fwupd](https://github.com/fwupd/fwupd) ⭐ 4,118 | 🐛 99 | 🌐 C | 📅 2026-08-19, written in Rust.
+[Firmware Manager](https://github.com/pop-os/firmware-manager) ⭐ 159 | 🐛 23 | 🌐 Rust | 📅 2025-10-27 is a generic framework and GTK UI for firmware updates from [system76-firmware](https://github.com/pop-os/system76-firmware) ⭐ 78 | 🐛 21 | 🌐 Rust | 📅 2026-08-18 and [fwupd](https://github.com/fwupd/fwupd) ⭐ 4,119 | 🐛 103 | 🌐 C | 📅 2026-08-19, written in Rust.
 
-[Heimdall](https://github.com/Benjamin-Dobell/Heimdall) ⭐ 3,091 | 🐛 259 | 🌐 C++ | 📅 2024-08-17 is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung mobile devices.
+[Heimdall](https://github.com/Benjamin-Dobell/Heimdall) ⭐ 3,092 | 🐛 259 | 🌐 C++ | 📅 2024-08-17 is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung mobile devices.
 
 [Nexmon](https://github.com/seemoo-lab/nexmon) ⭐ 2,870 | 🐛 344 | 🌐 C | 📅 2026-07-13 is a C-based firmware patching framework for Broadcom/Cypress WiFi chips that enables you to write your own firmware patches, for example, to enable monitor mode with radiotap headers and frame injection.
 
 [Firmware Analysis Toolkit](https://github.com/attify/firmware-analysis-toolkit) ⭐ 1,581 | 🐛 51 | 🌐 Python | 📅 2024-09-16 is a toolkit built in order to help security researchers analyze and identify vulnerabilities in IoT and embedded device firmware. This is built in order to use for the ["Offensive IoT Exploitation"](https://www.attify-store.com/collections/training/products/offensive-iot-exploitation) training conducted by [Attify](https://attify.com/).
 
-[Firmware Analysis and Comparison Tool](https://github.com/fkie-cad/FACT_core) ⭐ 1,456 | 🐛 139 | 🌐 Python | 📅 2026-08-18 is a tool intended to automate most of the firmware analysis process. It unpacks arbitrary firmware files and processes several analyses. Additionally, it can compare several images or single files.
+[Firmware Analysis and Comparison Tool](https://github.com/fkie-cad/FACT_core) ⭐ 1,458 | 🐛 139 | 🌐 Python | 📅 2026-08-19 is a tool intended to automate most of the firmware analysis process. It unpacks arbitrary firmware files and processes several analyses. Additionally, it can compare several images or single files.
 
 [Mellanox firmware update and query utility](https://www.mellanox.com/support/firmware/mlxup-mft) is a utility that enables scanning the server machine for available Mellanox adapters and indicates whether firmware update is required for each adapter.
 
@@ -560,7 +560,7 @@ Xilinx CoolRunner-II CPLD
 
 ## Verilog/SystemVerilog Tools
 
-[Apio](https://github.com/FPGAwars/apio) ⭐ 1,004 | 🐛 41 | 🌐 Python | 📅 2026-08-19 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
+[Apio](https://github.com/FPGAwars/apio) ⭐ 1,004 | 🐛 40 | 🌐 Python | 📅 2026-08-19 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
 
 [IceStorm](https://github.com/YosysHQ/icestorm) ⭐ 1,181 | 🐛 71 | 🌐 Python | 📅 2026-02-26 is a project that aims at documenting the bitstream format of Lattice iCE40 FPGAs and providing simple tools for analyzing and creating bitstream files.
 
@@ -716,17 +716,17 @@ Xilinx CoolRunner-II CPLD
 
 [AWS SDK for C++](https://aws.amazon.com/sdk-for-cpp/)
 
-[Azure SDK for C++](https://github.com/Azure/azure-sdk-for-cpp) ⭐ 204 | 🐛 169 | 🌐 C++ | 📅 2026-08-19
+[Azure SDK for C++](https://github.com/Azure/azure-sdk-for-cpp) ⭐ 204 | 🐛 167 | 🌐 C++ | 📅 2026-08-19
 
 [Azure SDK for C](https://github.com/Azure/azure-sdk-for-c) ⚠️ Archived
 
-[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 658 | 🐛 207 | 🌐 C++ | 📅 2026-08-19
+[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 658 | 🐛 206 | 🌐 C++ | 📅 2026-08-19
 
 [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,375 | 🐛 1,136 | 🌐 CMake | 📅 2026-08-19 is a C++ Library Manager for Windows, Linux, and MacOS.
+[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,375 | 🐛 1,140 | 🌐 CMake | 📅 2026-08-19 is a C++ Library Manager for Windows, Linux, and MacOS.
 
 [ReSharper C++](https://www.jetbrains.com/resharper-cpp/features/) is a Visual Studio Extension for C++ developers developed by JetBrains.
 
@@ -736,7 +736,7 @@ Xilinx CoolRunner-II CPLD
 
 [Code::Blocks](https://www.codeblocks.org/) is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable. Built around a plugin framework, Code::Blocks can be extended with plugins.
 
-[CppSharp](https://github.com/mono/CppSharp) ⭐ 3,401 | 🐛 346 | 🌐 C# | 📅 2026-05-18 is a tool and set of libraries which facilitates the usage of native C/C++ code with the .NET ecosystem. It consumes C/C++ header and library files and generates the necessary glue code to surface the native API as a managed API. Such an API can be used to consume an existing native library in your managed code or add managed scripting support to a native codebase.
+[CppSharp](https://github.com/mono/CppSharp) ⭐ 3,402 | 🐛 346 | 🌐 C# | 📅 2026-05-18 is a tool and set of libraries which facilitates the usage of native C/C++ code with the .NET ecosystem. It consumes C/C++ header and library files and generates the necessary glue code to surface the native API as a managed API. Such an API can be used to consume an existing native library in your managed code or add managed scripting support to a native codebase.
 
 [Conan](https://conan.io/) is an Open Source Package Manager for C++ development and dependency management into the 21st century and on par with the other development ecosystems.
 
@@ -778,7 +778,7 @@ Xilinx CoolRunner-II CPLD
 
 [Cython](https://cython.org/) is a language that makes writing C extensions for Python as easy as Python itself. Cython is based on Pyrex, but supports more cutting edge functionality and optimizations such as calling C functions and declaring C types on variables and class attributes.
 
-[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,496 | 🐛 49 | 🌐 C++ | 📅 2026-08-08 is a very fast, header-only/compiled, C++ logging library.
+[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,501 | 🐛 49 | 🌐 C++ | 📅 2026-08-08 is a very fast, header-only/compiled, C++ logging library.
 
 [Infer](https://fbinfer.com/) is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in [OCaml](https://ocaml.org/).
 
