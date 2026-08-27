@@ -228,10 +228,10 @@
             "archived": false,
             "id": 51361989,
             "language": "Python",
-            "last_commit": "2026-08-26T15:32:55Z",
+            "last_commit": "2026-08-27T08:11:50Z",
             "owner": "FPGAwars",
             "repo": "apio",
-            "stars": 1004
+            "stars": 1005
           }
         },
         {
@@ -479,7 +479,7 @@
                 "last_commit": "2023-12-06T09:16:49Z",
                 "owner": "NVIDIA",
                 "repo": "nvidia-docker",
-                "stars": 17591
+                "stars": 17590
               }
             }
           ],
@@ -505,7 +505,7 @@
             "last_commit": "2026-08-15T09:29:59Z",
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3233
+            "stars": 3234
           }
         },
         {
@@ -547,10 +547,10 @@
             "archived": false,
             "id": 184341774,
             "language": "Rust",
-            "last_commit": "2026-08-26T21:15:32Z",
+            "last_commit": "2026-08-27T10:13:32Z",
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6148
+            "stars": 6151
           }
         },
         {
@@ -562,10 +562,10 @@
             "archived": false,
             "id": 51007072,
             "language": "C",
-            "last_commit": "2026-08-26T14:43:49Z",
+            "last_commit": "2026-08-27T10:43:49Z",
             "owner": "xen-project",
             "repo": "xen",
-            "stars": 841
+            "stars": 842
           }
         },
         {
@@ -630,7 +630,7 @@
                 "archived": false,
                 "id": 31374735,
                 "language": "C",
-                "last_commit": "2026-08-26T15:59:43Z",
+                "last_commit": "2026-08-27T10:33:14Z",
                 "owner": "fwupd",
                 "repo": "fwupd",
                 "stars": 4130
@@ -678,7 +678,7 @@
                 "last_commit": "2024-08-17T12:07:53Z",
                 "owner": "Benjamin-Dobell",
                 "repo": "Heimdall",
-                "stars": 3098
+                "stars": 3099
               }
             },
             {
@@ -750,7 +750,7 @@
                 "archived": false,
                 "id": 27737393,
                 "language": "C",
-                "last_commit": "2026-08-26T07:26:06Z",
+                "last_commit": "2026-08-27T01:13:48Z",
                 "owner": "qmk",
                 "repo": "qmk_firmware",
                 "stars": 20659
@@ -796,7 +796,7 @@
                 "last_commit": "2023-12-13T03:58:36Z",
                 "owner": "scottclowe",
                 "repo": "matlab-schemer",
-                "stars": 1257
+                "stars": 1258
               }
             },
             {
@@ -851,10 +851,10 @@
                 "archived": false,
                 "id": 51361989,
                 "language": "Python",
-                "last_commit": "2026-08-26T15:32:55Z",
+                "last_commit": "2026-08-27T08:11:50Z",
                 "owner": "FPGAwars",
                 "repo": "apio",
-                "stars": 1004
+                "stars": 1005
               }
             },
             {
@@ -927,7 +927,7 @@
                 "last_commit": "2026-08-06T15:54:13Z",
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45276
+                "stars": 45280
               }
             }
           ],
@@ -946,7 +946,7 @@
                 "archived": false,
                 "id": 233147271,
                 "language": "C++",
-                "last_commit": "2026-08-26T20:37:01Z",
+                "last_commit": "2026-08-26T23:18:07Z",
                 "owner": "Azure",
                 "repo": "azure-sdk-for-cpp",
                 "stars": 205
@@ -976,7 +976,7 @@
                 "archived": false,
                 "id": 111860063,
                 "language": "C++",
-                "last_commit": "2026-08-26T17:57:32Z",
+                "last_commit": "2026-08-27T09:52:35Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
                 "stars": 659
@@ -994,7 +994,7 @@
                 "last_commit": "2026-08-26T19:17:53Z",
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27400
+                "stars": 27403
               }
             },
             {
@@ -1009,7 +1009,7 @@
                 "last_commit": "2026-05-18T12:47:02Z",
                 "owner": "mono",
                 "repo": "CppSharp",
-                "stars": 3404
+                "stars": 3406
               }
             },
             {
@@ -1054,7 +1054,7 @@
                 "last_commit": "2026-08-08T10:51:08Z",
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29524
+                "stars": 29530
               }
             }
           ],
@@ -1095,9 +1095,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T21:42:33.555Z",
-    "original_repository": "mikeroyal/CPLD-Guide",
-    "original_repository_id": 426018727,
+    "last_updated": "2026-08-27T11:32:12.433Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 426018727,
+      "language": "Verilog",
+      "last_commit": "2022-01-09T22:16:26Z",
+      "owner": "mikeroyal",
+      "repo": "CPLD-Guide",
+      "stars": 61
+    },
     "original_repository_sha": "1fe4b399c654f980873ec573abb04a4340818a9b",
     "enhanced_repository": "enhansome/enhansome-CPLD-Guide",
     "enhanced_repository_description": null,
