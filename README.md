@@ -133,7 +133,7 @@ Xilinx CoolRunner-II CPLD
 [Chipyard](https://chipyard.readthedocs.io/en/latest/) is an open source framework for agile development of Chisel-based systems-on-chip. It will allow you to leverage the Chisel HDL, Rocket Chip SoC generator, and other [Berkeley](https://berkeley.edu/) projects to produce a RISC-V SoC with everything from MMIO-mapped peripherals to custom accelerators.
 
 [The Eclipse Embedded CDT](https://github.com/eclipse-embed-cdt/eclipse-plugins) ⭐ 560 | 🐛 106 | 🌐 C | 📅 2026-08-25 is a collection of plug-ins for Arm & RISC-V C/C++ developers.
-[Unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,270 | 🐛 213 | 🌐 C | 📅 2026-08-28 is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
+[Unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,271 | 🐛 213 | 🌐 C | 📅 2026-08-28 is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
 
 [Keystone](https://github.com/keystone-engine/keystone) ⭐ 2,625 | 🐛 242 | 🌐 C++ | 📅 2026-07-18 is a lightweight multi-platform, multi-architecture(Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) assembler framework.
 
@@ -268,7 +268,7 @@ Xilinx CoolRunner-II CPLD
 
 [Apple Paravirtualized Graphics Framework](https://developer.apple.com/documentation/paravirtualizedgraphics) is a framework that implements hardware-accelerated graphics for macOS running in a virtual machine, hereafter known as the guest. The operating system provides a graphics driver that runs inside the guest, communicating with the framework in the host operating system to take advantage of Metal-accelerated graphics.
 
-[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,156 | 🐛 220 | 🌐 Rust | 📅 2026-08-28 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
+[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,157 | 🐛 220 | 🌐 Rust | 📅 2026-08-28 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
 
 [VMware vSphere Hypervisor](https://www.vmware.com/products/vsphere-hypervisor.html) is a bare-metal hypervisor that virtualizes servers; allowing you to consolidate your applications while saving time and money managing your IT infrastructure.
 
@@ -512,7 +512,7 @@ Xilinx CoolRunner-II CPLD
 
 [SEA-MAT](https://sea-mat.github.io/sea-mat/) is a collaborative effort to organize and distribute Matlab tools for the Oceanographic Community.
 
-[Gramm](https://github.com/piermorel/gramm) ⭐ 824 | 🐛 22 | 🌐 HTML | 📅 2026-06-25 is a complete data visualization toolbox for Matlab. It provides an easy to use and high-level interface to produce publication-quality plots of complex data with varied statistical visualizations. Gramm is inspired by R's ggplot2 library.
+[Gramm](https://github.com/piermorel/gramm) ⭐ 825 | 🐛 22 | 🌐 HTML | 📅 2026-06-25 is a complete data visualization toolbox for Matlab. It provides an easy to use and high-level interface to produce publication-quality plots of complex data with varied statistical visualizations. Gramm is inspired by R's ggplot2 library.
 
 [hctsa](https://hctsa-users.gitbook.io/hctsa-manual) is a software package for running highly comparative time-series analysis using Matlab.
 
@@ -736,7 +736,7 @@ Xilinx CoolRunner-II CPLD
 
 [Code::Blocks](https://www.codeblocks.org/) is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable. Built around a plugin framework, Code::Blocks can be extended with plugins.
 
-[CppSharp](https://github.com/mono/CppSharp) ⭐ 3,406 | 🐛 346 | 🌐 C# | 📅 2026-05-18 is a tool and set of libraries which facilitates the usage of native C/C++ code with the .NET ecosystem. It consumes C/C++ header and library files and generates the necessary glue code to surface the native API as a managed API. Such an API can be used to consume an existing native library in your managed code or add managed scripting support to a native codebase.
+[CppSharp](https://github.com/mono/CppSharp) ⭐ 3,407 | 🐛 346 | 🌐 C# | 📅 2026-05-18 is a tool and set of libraries which facilitates the usage of native C/C++ code with the .NET ecosystem. It consumes C/C++ header and library files and generates the necessary glue code to surface the native API as a managed API. Such an API can be used to consume an existing native library in your managed code or add managed scripting support to a native codebase.
 
 [Conan](https://conan.io/) is an Open Source Package Manager for C++ development and dependency management into the 21st century and on par with the other development ecosystems.
 
