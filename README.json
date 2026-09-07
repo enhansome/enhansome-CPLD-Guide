@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "CPLD-Guide",
-            "stars": 61,
+            "stars": 62,
             "topics": [
               "awesome",
               "awesome-list",
@@ -55,7 +55,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "CPLD-Guide",
-            "stars": 61,
+            "stars": 62,
             "topics": [
               "awesome",
               "awesome-list",
@@ -91,7 +91,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "CPLD-Guide",
-            "stars": 61,
+            "stars": 62,
             "topics": [
               "awesome",
               "awesome-list",
@@ -127,7 +127,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "CPLD-Guide",
-            "stars": 61,
+            "stars": 62,
             "topics": [
               "awesome",
               "awesome-list",
@@ -163,7 +163,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "CPLD-Guide",
-            "stars": 61,
+            "stars": 62,
             "topics": [
               "awesome",
               "awesome-list",
@@ -199,7 +199,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "CPLD-Guide",
-            "stars": 61,
+            "stars": 62,
             "topics": [
               "awesome",
               "awesome-list",
@@ -235,7 +235,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "CPLD-Guide",
-            "stars": 61,
+            "stars": 62,
             "topics": [
               "awesome",
               "awesome-list",
@@ -271,7 +271,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "CPLD-Guide",
-            "stars": 61,
+            "stars": 62,
             "topics": [
               "awesome",
               "awesome-list",
@@ -307,7 +307,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "CPLD-Guide",
-            "stars": 61,
+            "stars": 62,
             "topics": [
               "awesome",
               "awesome-list",
@@ -343,7 +343,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "CPLD-Guide",
-            "stars": 61,
+            "stars": 62,
             "topics": [
               "awesome",
               "awesome-list",
@@ -379,7 +379,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "CPLD-Guide",
-            "stars": 61,
+            "stars": 62,
             "topics": [
               "awesome",
               "awesome-list",
@@ -415,7 +415,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "CPLD-Guide",
-            "stars": 61,
+            "stars": 62,
             "topics": [
               "awesome",
               "awesome-list",
@@ -451,7 +451,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "CPLD-Guide",
-            "stars": 61,
+            "stars": 62,
             "topics": [
               "awesome",
               "awesome-list",
@@ -487,7 +487,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "CPLD-Guide",
-            "stars": 61,
+            "stars": 62,
             "topics": [
               "awesome",
               "awesome-list",
@@ -525,8 +525,8 @@
             "id": 51361989,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-06T17:30:07Z",
-            "open_issues": 44,
+            "last_commit": "2026-09-07T20:27:08Z",
+            "open_issues": 43,
             "owner": "FPGAwars",
             "repo": "apio",
             "stars": 1007,
@@ -581,7 +581,7 @@
             "open_issues": 153,
             "owner": "olofk",
             "repo": "fusesoc",
-            "stars": 1453,
+            "stars": 1454,
             "topics": [
               "eda",
               "fpga",
@@ -610,7 +610,7 @@
             "open_issues": 93,
             "owner": "open-sdr",
             "repo": "openwifi",
-            "stars": 4787,
+            "stars": 4788,
             "topics": [
               "802-11",
               "ad9361",
@@ -749,7 +749,7 @@
             "open_issues": 242,
             "owner": "keystone-engine",
             "repo": "keystone",
-            "stars": 2632,
+            "stars": 2633,
             "topics": [
               "arm",
               "arm64",
@@ -1011,10 +1011,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-09-04T16:57:01Z",
-            "open_issues": 156,
+            "open_issues": 157,
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3244,
+            "stars": 3246,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:08.430Z"
@@ -1073,11 +1073,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-09-05T01:16:55Z",
-            "open_issues": 227,
+            "last_commit": "2026-09-07T14:32:33Z",
+            "open_issues": 233,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6191,
+            "stars": 6197,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -1099,7 +1099,7 @@
             "id": 51007072,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T20:22:49Z",
+            "last_commit": "2026-09-07T14:12:49Z",
             "open_issues": 3,
             "owner": "xen-project",
             "repo": "xen",
@@ -1120,8 +1120,8 @@
             "id": 25163509,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-02T11:56:49Z",
-            "open_issues": 339,
+            "last_commit": "2026-09-07T06:56:29Z",
+            "open_issues": 336,
             "owner": "ganeti",
             "repo": "ganeti",
             "stars": 583,
@@ -1181,7 +1181,7 @@
                 "open_issues": 12,
                 "owner": "google",
                 "repo": "OpenSK",
-                "stars": 3418,
+                "stars": 3419,
                 "topics": [
                   "ctap2",
                   "embedded",
@@ -1212,11 +1212,11 @@
                 "id": 31374735,
                 "language": "C",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-09-06T16:22:37Z",
-                "open_issues": 104,
+                "last_commit": "2026-09-07T19:36:38Z",
+                "open_issues": 109,
                 "owner": "fwupd",
                 "repo": "fwupd",
-                "stars": 4147,
+                "stars": 4146,
                 "topics": [
                   "c",
                   "firmware",
@@ -1284,7 +1284,7 @@
                 "open_issues": 259,
                 "owner": "Benjamin-Dobell",
                 "repo": "Heimdall",
-                "stars": 3098,
+                "stars": 3099,
                 "topics": [
                   "android",
                   "firmware",
@@ -1309,7 +1309,7 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-07-13T17:06:43Z",
-                "open_issues": 346,
+                "open_issues": 347,
                 "owner": "seemoo-lab",
                 "repo": "nexmon",
                 "stars": 2885,
@@ -1341,7 +1341,7 @@
                 "open_issues": 51,
                 "owner": "attify",
                 "repo": "firmware-analysis-toolkit",
-                "stars": 1582,
+                "stars": 1583,
                 "topics": [
                   "binary-analysis",
                   "firmware",
@@ -1400,7 +1400,7 @@
                 "open_issues": 24,
                 "owner": "qmk",
                 "repo": "qmk_toolbox",
-                "stars": 3074,
+                "stars": 3075,
                 "topics": [
                   "atmel",
                   "avr",
@@ -1430,7 +1430,7 @@
                 "open_issues": 540,
                 "owner": "qmk",
                 "repo": "qmk_firmware",
-                "stars": 20680,
+                "stars": 20683,
                 "topics": [
                   "atmel-avr",
                   "c",
@@ -1594,8 +1594,8 @@
                 "id": 51361989,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-06T17:30:07Z",
-                "open_issues": 44,
+                "last_commit": "2026-09-07T20:27:08Z",
+                "open_issues": 43,
                 "owner": "FPGAwars",
                 "repo": "apio",
                 "stars": 1007,
@@ -1728,7 +1728,7 @@
                 "open_issues": 246,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45308,
+                "stars": 45309,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:01:08.430Z"
@@ -1806,8 +1806,8 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-06T19:58:32Z",
-                "open_issues": 202,
+                "last_commit": "2026-09-07T18:51:09Z",
+                "open_issues": 203,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
                 "stars": 660,
@@ -1843,10 +1843,10 @@
                 "language": "CMake",
                 "license": "MIT",
                 "last_commit": "2026-09-04T06:31:25Z",
-                "open_issues": 1185,
+                "open_issues": 1193,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27440,
+                "stars": 27448,
                 "topics": [
                   "c",
                   "cmake",
@@ -1878,7 +1878,7 @@
                 "open_issues": 346,
                 "owner": "mono",
                 "repo": "CppSharp",
-                "stars": 3406,
+                "stars": 3405,
                 "topics": [
                   "bindings",
                   "bridge",
@@ -1987,7 +1987,7 @@
                 "open_issues": 47,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29578,
+                "stars": 29584,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -2027,7 +2027,7 @@
                 "open_issues": 0,
                 "owner": "mikeroyal",
                 "repo": "CPLD-Guide",
-                "stars": 61,
+                "stars": 62,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2057,7 +2057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T21:08:37.764Z",
+    "last_updated": "2026-09-07T21:56:01.922Z",
     "original_repository_info": {
       "archived": false,
       "description": "Complex Programmable Logic Device (CPLD) Guide",
@@ -2069,7 +2069,7 @@
       "open_issues": 0,
       "owner": "mikeroyal",
       "repo": "CPLD-Guide",
-      "stars": 61,
+      "stars": 62,
       "topics": [
         "awesome",
         "awesome-list",
