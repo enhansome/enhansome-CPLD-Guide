@@ -21,52 +21,52 @@ Xilinx CoolRunner-II CPLD
 
 # Table of Contents
 
-1. [CPLD Learning Resources](https://github.com/mikeroyal//CPLD-Guide#cpld-learning-resources) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09
+1. [CPLD Learning Resources](https://github.com/mikeroyal//CPLD-Guide#cpld-learning-resources)
 
-2. [CPLD Tools](https://github.com/mikeroyal//CPLD-Guide#cpld-tools) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09
+2. [CPLD Tools](https://github.com/mikeroyal//CPLD-Guide#cpld-tools)
 
-3. [OpenCL Development](https://github.com/mikeroyal/CPLD-Guide#opencl-development) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09
+3. [OpenCL Development](https://github.com/mikeroyal/CPLD-Guide#opencl-development)
 
-4. [Virtualization Tools](https://github.com/mikeroyal/CPLD-Guide#virtualization-tools) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09
+4. [Virtualization Tools](https://github.com/mikeroyal/CPLD-Guide#virtualization-tools)
 
-5. [Emulation Tools](https://github.com/mikeroyal/CPLD-Guide#emulation-tools) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09
+5. [Emulation Tools](https://github.com/mikeroyal/CPLD-Guide#emulation-tools)
 
-6. [Firmware Development](https://github.com/mikeroyal/CPLD-Guide#firmware-development) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09
+6. [Firmware Development](https://github.com/mikeroyal/CPLD-Guide#firmware-development)
 
-7. [MATLAB Development](https://github.com/mikeroyal/CPLD-Guide#matlab-development) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09
+7. [MATLAB Development](https://github.com/mikeroyal/CPLD-Guide#matlab-development)
 
-8. [Verilog/SystemVerilog Development](https://github.com/mikeroyal/CPLD-Guide#VerilogSystemVerilog-development) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09
+8. [Verilog/SystemVerilog Development](https://github.com/mikeroyal/CPLD-Guide#VerilogSystemVerilog-development)
 
-9. [Assembly Development](https://github.com/mikeroyal/CPLD-Guide#assembly-development) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09
+9. [Assembly Development](https://github.com/mikeroyal/CPLD-Guide#assembly-development)
 
-10. [C/C++ Development](https://github.com/mikeroyal/CPLD-Guide#cc-development) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09
+10. [C/C++ Development](https://github.com/mikeroyal/CPLD-Guide#cc-development)
 
-11. [Electric charge, field, and potential](https://github.com/mikeroyal/CPLD-Guide#electric-charge-field-and-potential) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09
+11. [Electric charge, field, and potential](https://github.com/mikeroyal/CPLD-Guide#electric-charge-field-and-potential)
 
     * Charge and electric force (Coulomb's law): Electric charge, field, and potential
     * Electric field: Electric charge, field, and potential
     * Electric potential energy, electric potential, and voltage: Electric charge, field, and potential
 
-12. [Circuits](https://github.com/mikeroyal/CPLD-Guide#Circuits) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09
+12. [Circuits](https://github.com/mikeroyal/CPLD-Guide#Circuits)
 
     * Ohm's law and circuits with resistors: Circuits
     * Circuits with capacitors: Circuits
 
-13. [Magnetic forces, magnetic fields, and Faraday's law](https://github.com/mikeroyal/CPLD-Guide#magnetic-forces-magnetic-fields-and-Faradays-law) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09
+13. [Magnetic forces, magnetic fields, and Faraday's law](https://github.com/mikeroyal/CPLD-Guide#magnetic-forces-magnetic-fields-and-Faradays-law)
 
     * Magnets and Magnetic Force: Magnetic forces, magnetic fields, and Faraday's law
     * Magnetic field created by a current: Magnetic forces, magnetic fields, and Faraday's law
     * Electric motors: Magnetic forces, magnetic fields, and Faraday's law
     * Magnetic flux and Faraday's law
 
-14. [Electromagnetic waves and interference](https://github.com/mikeroyal/CPLD-Guide#electromagnetic-waves-and-interference) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09
+14. [Electromagnetic waves and interference](https://github.com/mikeroyal/CPLD-Guide#electromagnetic-waves-and-interference)
 
     * Introduction to electromagnetic waves: Electromagnetic waves and interference
     * Interference of electromagnetic waves
 
 # Awesome CPLD Learning Resources with stars
 
-[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09
+[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents)
 
 [Complex Programmable Logic Device (CPLD)](https://www.xilinx.com/products/silicon-devices/cpld/cpld.html) is a combination of a fully programmable AND/OR array and a bank of macrocells. The AND/OR array is reprogrammable and can perform a multitude of logic functions. Macrocells are functional blocks that perform combinatorial or sequential logic, and also have the added flexibility for true or complement, along with varied feedback paths.
 
@@ -94,7 +94,7 @@ Xilinx CoolRunner-II CPLD
 
 # CPLD Tools
 
-[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09
+[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents)
 
 [Synopsys® SpyGlass®](https://www.synopsys.com/verification/static-and-formal-verification/spyglass.html) is a platform that provides designers with insight about their design, early in the process at RTL. It functions like an interactive guidance system for design engineers and managers, finding the fastest and least expensive path to implementation for complex SoCs.
 
@@ -102,7 +102,7 @@ Xilinx CoolRunner-II CPLD
 
 [LabVIEW FPGA](https://www.ni.com/en-us/shop/software/products/labview-fpga-module.html) is a software add-on for LabVIEW that you can use to more efficiently and effectively design FPGA-based systems through a highly integrated development environment, IP libraries, a high-fidelity simulator, and debugging features.
 
-[Apio](https://github.com/FPGAwars/apio) ⭐ 1,011 | 🐛 33 | 🌐 Python | 📅 2026-10-02 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
+[Apio](https://github.com/FPGAwars/apio) ⭐ 1,011 | 🐛 33 | 🌐 Python | 📅 2026-10-03 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
 
 [IceStorm](https://github.com/YosysHQ/icestorm) ⭐ 1,188 | 🐛 69 | 🌐 Python | 📅 2026-09-21 is a project that aims at documenting the bitstream format of Lattice iCE40 FPGAs and providing simple tools for analyzing and creating bitstream files.
 
@@ -110,7 +110,7 @@ Xilinx CoolRunner-II CPLD
 
 [FuseSoC](https://github.com/olofk/fusesoc) ⭐ 1,468 | 🐛 155 | 🌐 Python | 📅 2026-09-25 is an award-winning package manager and a set of build tools for HDL (Hardware Description Language) code and FPGA/ASIC development.
 
-[OpenWiFi](https://github.com/open-sdr/openwifi) ⭐ 4,827 | 🐛 98 | 🌐 C | 📅 2026-09-21 is an open-source IEEE802.11/Wi-Fi baseband chip/FPGA design.
+[OpenWiFi](https://github.com/open-sdr/openwifi) ⭐ 4,829 | 🐛 98 | 🌐 C | 📅 2026-09-21 is an open-source IEEE802.11/Wi-Fi baseband chip/FPGA design.
 
 [PipeCNN](https://github.com/doonny/PipeCNN) ⭐ 1,390 | 🐛 44 | 🌐 C | 📅 2022-02-14 is an OpenCL-based FPGA Accelerator for Large-Scale Convolutional Neural Networks (CNNs). Currently, there is a growing trend among developers in the FPGA community to utilize High Level Synthesis (HLS) tools to design and implement customized circuits on FPGAs.
 
@@ -133,7 +133,7 @@ Xilinx CoolRunner-II CPLD
 [Chipyard](https://chipyard.readthedocs.io/en/latest/) is an open source framework for agile development of Chisel-based systems-on-chip. It will allow you to leverage the Chisel HDL, Rocket Chip SoC generator, and other [Berkeley](https://berkeley.edu/) projects to produce a RISC-V SoC with everything from MMIO-mapped peripherals to custom accelerators.
 
 [The Eclipse Embedded CDT](https://github.com/eclipse-embed-cdt/eclipse-plugins) ⭐ 559 | 🐛 106 | 🌐 C | 📅 2026-09-09 is a collection of plug-ins for Arm & RISC-V C/C++ developers.
-[Unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,393 | 🐛 228 | 🌐 C | 📅 2026-08-28 is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
+[Unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,396 | 🐛 228 | 🌐 C | 📅 2026-08-28 is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
 
 [Keystone](https://github.com/keystone-engine/keystone) ⭐ 2,640 | 🐛 244 | 🌐 C++ | 📅 2026-07-18 is a lightweight multi-platform, multi-architecture(Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) assembler framework.
 
@@ -143,7 +143,7 @@ Xilinx CoolRunner-II CPLD
 
 # OpenCL Development
 
-[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09
+[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/130368400-7b6a82d3-ed03-4158-ade4-d7fc6cc9960a.png">
@@ -212,7 +212,7 @@ Xilinx CoolRunner-II CPLD
 
 # Virtualization Tools
 
-[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09
+[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents)
 
 [HVM (Hardware Virtual Machine)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/virtualization_types.html) is a virtualization type that provides the ability to run an operating system directly on top of a virtual machine without any modification, as if it were run on the bare-metal hardware.
 
@@ -268,7 +268,7 @@ Xilinx CoolRunner-II CPLD
 
 [Apple Paravirtualized Graphics Framework](https://developer.apple.com/documentation/paravirtualizedgraphics) is a framework that implements hardware-accelerated graphics for macOS running in a virtual machine, hereafter known as the guest. The operating system provides a graphics driver that runs inside the guest, communicating with the framework in the host operating system to take advantage of Metal-accelerated graphics.
 
-[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,278 | 🐛 242 | 🌐 Rust | 📅 2026-10-02 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
+[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,278 | 🐛 243 | 🌐 Rust | 📅 2026-10-02 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
 
 [VMware vSphere Hypervisor](https://www.vmware.com/products/vsphere-hypervisor.html) is a bare-metal hypervisor that virtualizes servers; allowing you to consolidate your applications while saving time and money managing your IT infrastructure.
 
@@ -288,7 +288,7 @@ Xilinx CoolRunner-II CPLD
 
 # Emulation Tools
 
-[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09
+[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents)
 
 [Verdi® Protocol Analyzer](https://www.synopsys.com/verification/debug/verdi-protocol-analyzer.html) is a simulator independent, protocol and memory aware debug environment that enables users to quickly debug with any verification environment and easily share simulation results across teams. It gives users a graphical view of the transfers, transaction, packets and handshaking of a protocol. It highlights relationships across the hierarchy, visually unraveling the complex behavior of highly interleaved traffic. Also, enables engineers to quickly understand protocol activity, identify bottlenecks and debug unexpected behavior. Errors, warnings and messages are annotated to rapidly identify problems in the simulation.
 
@@ -320,7 +320,7 @@ Xilinx CoolRunner-II CPLD
 
 # Firmware Development
 
-[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09
+[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/126912889-d86e3171-471a-4c05-b6bf-36a70080ab7c.png">
@@ -369,7 +369,7 @@ Xilinx CoolRunner-II CPLD
 
 [Linux Vendor Firmware Service(LVFS)](https://fwupd.org) is a secure portal which allows hardware vendors to upload firmware updates.
 
-[fwupd](https://github.com/fwupd/fwupd) ⭐ 4,186 | 🐛 102 | 🌐 C | 📅 2026-10-02 is a simple daemon to allow session software to update firmware. The goal og project is to make updating firmware on Linux automatic, safe and reliable.
+[fwupd](https://github.com/fwupd/fwupd) ⭐ 4,186 | 🐛 103 | 🌐 C | 📅 2026-10-02 is a simple daemon to allow session software to update firmware. The goal og project is to make updating firmware on Linux automatic, safe and reliable.
 
 [CHIPSEC](https://chipsec.github.io/) is a framework for analyzing the security of PC platforms including hardware, system firmware (BIOS/UEFI), and platform components. It includes a security test suite, tools for accessing various low level interfaces, and forensic capabilities. It can be run on Windows, Linux, Mac OS X and UEFI shell.
 
@@ -391,7 +391,7 @@ Xilinx CoolRunner-II CPLD
 
 [System76 Firmware](https://github.com/pop-os/system76-firmware) ⭐ 80 | 🐛 20 | 🌐 Rust | 📅 2026-08-18 is a software package that has a CLI(command-line inferface) tool for installing firmware updates. Also, included is the system76-firmware-daemon package, which has a systemd service that exposes a DBUS API for handling firmware updates.
 
-[Firmware Manager](https://github.com/pop-os/firmware-manager) ⭐ 159 | 🐛 25 | 🌐 Rust | 📅 2026-10-02 is a generic framework and GTK UI for firmware updates from [system76-firmware](https://github.com/pop-os/system76-firmware) ⭐ 80 | 🐛 20 | 🌐 Rust | 📅 2026-08-18 and [fwupd](https://github.com/fwupd/fwupd) ⭐ 4,186 | 🐛 102 | 🌐 C | 📅 2026-10-02, written in Rust.
+[Firmware Manager](https://github.com/pop-os/firmware-manager) ⭐ 159 | 🐛 25 | 🌐 Rust | 📅 2026-10-02 is a generic framework and GTK UI for firmware updates from [system76-firmware](https://github.com/pop-os/system76-firmware) ⭐ 80 | 🐛 20 | 🌐 Rust | 📅 2026-08-18 and [fwupd](https://github.com/fwupd/fwupd) ⭐ 4,186 | 🐛 103 | 🌐 C | 📅 2026-10-02, written in Rust.
 
 [Heimdall](https://github.com/Benjamin-Dobell/Heimdall) ⭐ 3,106 | 🐛 259 | 🌐 C++ | 📅 2024-08-17 is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung mobile devices.
 
@@ -407,13 +407,13 @@ Xilinx CoolRunner-II CPLD
 
 [QMK Toolbox](https://github.com/qmk/qmk_toolbox) ⭐ 3,094 | 🐛 25 | 🌐 C# | 📅 2026-08-20 is a Toolbox companion for [QMK](https://qmk.fm/) Firmware. It provides a collection of flashing tools packaged into one app. It supports auto-detection and auto-flashing of firmware to keyboards.
 
-[QMK(Quantum Mechanical Keyboard) Firmware](https://github.com/qmk/qmk_firmware) ⭐ 20,738 | 🐛 547 | 🌐 C | 📅 2026-10-02 is an open-source keyboard firmware for Atmel AVR and [Arm](https://www.arm.com/) USB controllers, and more specifically, the [OLKB product line](https://olkb.com/), the [ErgoDox EZ keyboard](https://ergodox-ez.com/), and the [Clueboard product line](https://clueboard.co/).
+[QMK(Quantum Mechanical Keyboard) Firmware](https://github.com/qmk/qmk_firmware) ⭐ 20,739 | 🐛 547 | 🌐 C | 📅 2026-10-02 is an open-source keyboard firmware for Atmel AVR and [Arm](https://www.arm.com/) USB controllers, and more specifically, the [OLKB product line](https://olkb.com/), the [ErgoDox EZ keyboard](https://ergodox-ez.com/), and the [Clueboard product line](https://clueboard.co/).
 
 [TMK Keyboard Firmware](https://github.com/tmk/tmk_keyboard) ⭐ 4,136 | 🐛 164 | 🌐 C | 📅 2026-08-05 is keyboard firmwares for Atmel AVR and [Arm](https://www.arm.com/) Cortex-M.
 
 # MATLAB Development
 
-[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09
+[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/94306473-de809e80-ff27-11ea-924b-0a6947ae38bc.png">
@@ -524,7 +524,7 @@ Xilinx CoolRunner-II CPLD
 
 # Verilog/SystemVerilog Development
 
-[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09
+[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/102273517-4b785480-3ed7-11eb-910a-113821428f17.png">
@@ -560,7 +560,7 @@ Xilinx CoolRunner-II CPLD
 
 ## Verilog/SystemVerilog Tools
 
-[Apio](https://github.com/FPGAwars/apio) ⭐ 1,011 | 🐛 33 | 🌐 Python | 📅 2026-10-02 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
+[Apio](https://github.com/FPGAwars/apio) ⭐ 1,011 | 🐛 33 | 🌐 Python | 📅 2026-10-03 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
 
 [IceStorm](https://github.com/YosysHQ/icestorm) ⭐ 1,188 | 🐛 69 | 🌐 Python | 📅 2026-09-21 is a project that aims at documenting the bitstream format of Lattice iCE40 FPGAs and providing simple tools for analyzing and creating bitstream files.
 
@@ -586,7 +586,7 @@ Xilinx CoolRunner-II CPLD
 
 # Assembly Development
 
-[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09
+[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/101415607-18154480-389d-11eb-80e8-17a5c57e480f.png">
@@ -635,7 +635,7 @@ Xilinx CoolRunner-II CPLD
 
 # C/C++ Development
 
-[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09
+[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/115297894-961e0d80-a111-11eb-81c3-e2bd2ac9a7cd.png">
@@ -670,7 +670,7 @@ Xilinx CoolRunner-II CPLD
 
 [Chromium C++ Style Guide](https://chromium.googlesource.com/chromium/src/+/master/styleguide/c++/c++.md)
 
-[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,352 | 🐛 246 | 🌐 CSS | 📅 2026-10-01
+[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,353 | 🐛 246 | 🌐 CSS | 📅 2026-10-01
 
 [C++ Style Guide for ROS](http://wiki.ros.org/CppStyleGuide)
 
@@ -720,13 +720,13 @@ Xilinx CoolRunner-II CPLD
 
 [Azure SDK for C](https://github.com/Azure/azure-sdk-for-c) ⚠️ Archived
 
-[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 658 | 🐛 203 | 🌐 C++ | 📅 2026-10-02
+[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 658 | 🐛 203 | 🌐 C++ | 📅 2026-10-03
 
 [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,512 | 🐛 1,090 | 🌐 CMake | 📅 2026-10-02 is a C++ Library Manager for Windows, Linux, and MacOS.
+[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,513 | 🐛 1,092 | 🌐 CMake | 📅 2026-10-03 is a C++ Library Manager for Windows, Linux, and MacOS.
 
 [ReSharper C++](https://www.jetbrains.com/resharper-cpp/features/) is a Visual Studio Extension for C++ developers developed by JetBrains.
 
@@ -784,7 +784,7 @@ Xilinx CoolRunner-II CPLD
 
 # Electric charge, field, and potential
 
-[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09
+[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents)
 
 ```
  - Charge and electric force (Coulomb's law): Electric charge, field, and potential
@@ -806,7 +806,7 @@ Xilinx CoolRunner-II CPLD
 
 # Circuits
 
-[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09
+[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents)
 
 ```
 - Ohm's law and circuits with resistors: Circuits
@@ -829,7 +829,7 @@ Xilinx CoolRunner-II CPLD
 
 # Magnetic forces, magnetic fields, and Faraday's law
 
-[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09
+[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents)
 
 ```
 - Magnets and Magnetic Force: Magnetic forces, magnetic fields, and Faraday's law
@@ -861,7 +861,7 @@ Xilinx CoolRunner-II CPLD
 
 # Electromagnetic waves and interference
 
-[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09
+[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents)
 
 ```
 - Introduction to electromagnetic waves: Electromagnetic waves and interference
@@ -884,14 +884,14 @@ Xilinx CoolRunner-II CPLD
 
 ## Contribute
 
-* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/CPLD-Guide/pulls) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09.
+* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/CPLD-Guide/pulls).
 
 ## License
 
-[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents) ⭐ 63 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09
+[Back to the Top](https://github.com/mikeroyal/CPLD-Guide#table-of-contents)
 
 Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
