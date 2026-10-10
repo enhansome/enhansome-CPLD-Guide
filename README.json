@@ -15,7 +15,7 @@
             "id": 51361989,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-09T23:05:32Z",
+            "last_commit": "2026-10-10T21:41:32Z",
             "open_issues": 34,
             "owner": "FPGAwars",
             "repo": "apio",
@@ -50,7 +50,7 @@
             "open_issues": 71,
             "owner": "YosysHQ",
             "repo": "icestorm",
-            "stars": 1189,
+            "stars": 1190,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:08.430Z"
@@ -274,7 +274,7 @@
             "open_issues": 165,
             "owner": "uxmal",
             "repo": "reko",
-            "stars": 2611,
+            "stars": 2612,
             "topics": [
               "aarch64",
               "arm",
@@ -501,10 +501,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-09-04T16:57:01Z",
-            "open_issues": 163,
+            "open_issues": 165,
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3270,
+            "stars": 3272,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:08.430Z"
@@ -525,7 +525,7 @@
             "open_issues": 53,
             "owner": "moby",
             "repo": "hyperkit",
-            "stars": 3712,
+            "stars": 3713,
             "topics": []
           },
           "first_seen": "2026-08-29T02:01:08.430Z"
@@ -563,11 +563,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-10-09T19:28:10Z",
-            "open_issues": 240,
+            "last_commit": "2026-10-10T14:23:46Z",
+            "open_issues": 239,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6306,
+            "stars": 6311,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -667,11 +667,11 @@
                 "id": 228682115,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T16:47:52Z",
+                "last_commit": "2026-10-10T08:07:33Z",
                 "open_issues": 12,
                 "owner": "google",
                 "repo": "OpenSK",
-                "stars": 3446,
+                "stars": 3447,
                 "topics": [
                   "ctap2",
                   "embedded",
@@ -702,7 +702,7 @@
                 "id": 31374735,
                 "language": "C",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-10-09T17:04:44Z",
+                "last_commit": "2026-10-10T08:37:09Z",
                 "open_issues": 112,
                 "owner": "fwupd",
                 "repo": "fwupd",
@@ -831,7 +831,7 @@
                 "open_issues": 16,
                 "owner": "attify",
                 "repo": "firmware-analysis-toolkit",
-                "stars": 1612,
+                "stars": 1614,
                 "topics": [
                   "binary-analysis",
                   "firmware",
@@ -864,7 +864,7 @@
                 "open_issues": 159,
                 "owner": "fkie-cad",
                 "repo": "FACT_core",
-                "stars": 1468,
+                "stars": 1467,
                 "topics": [
                   "firmware-analysis",
                   "firmware-tools",
@@ -920,7 +920,7 @@
                 "open_issues": 550,
                 "owner": "qmk",
                 "repo": "qmk_firmware",
-                "stars": 20749,
+                "stars": 20753,
                 "topics": [
                   "atmel-avr",
                   "c",
@@ -1047,7 +1047,7 @@
                 "open_issues": 17,
                 "owner": "piermorel",
                 "repo": "gramm",
-                "stars": 825,
+                "stars": 826,
                 "topics": [
                   "data-visualization",
                   "matlab",
@@ -1084,7 +1084,7 @@
                 "id": 51361989,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-09T23:05:32Z",
+                "last_commit": "2026-10-10T21:41:32Z",
                 "open_issues": 34,
                 "owner": "FPGAwars",
                 "repo": "apio",
@@ -1119,7 +1119,7 @@
                 "open_issues": 71,
                 "owner": "YosysHQ",
                 "repo": "icestorm",
-                "stars": 1189,
+                "stars": 1190,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:01:08.430Z"
@@ -1218,7 +1218,7 @@
                 "open_issues": 246,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45368,
+                "stars": 45370,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:01:08.430Z"
@@ -1242,8 +1242,8 @@
                 "id": 233147271,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-09T19:41:31Z",
-                "open_issues": 150,
+                "last_commit": "2026-10-10T06:22:27Z",
+                "open_issues": 152,
                 "owner": "Azure",
                 "repo": "azure-sdk-for-cpp",
                 "stars": 206,
@@ -1296,7 +1296,7 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T19:50:18Z",
+                "last_commit": "2026-10-10T22:12:06Z",
                 "open_issues": 203,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
@@ -1332,11 +1332,11 @@
                 "id": 68312233,
                 "language": "CMake",
                 "license": "MIT",
-                "last_commit": "2026-10-09T23:02:04Z",
-                "open_issues": 1069,
+                "last_commit": "2026-10-10T01:05:48Z",
+                "open_issues": 1075,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27515,
+                "stars": 27516,
                 "topics": [
                   "c",
                   "cmake",
@@ -1368,7 +1368,7 @@
                 "open_issues": 346,
                 "owner": "mono",
                 "repo": "CppSharp",
-                "stars": 3400,
+                "stars": 3401,
                 "topics": [
                   "bindings",
                   "bridge",
@@ -1448,7 +1448,7 @@
                 "open_issues": 113,
                 "owner": "bytedeco",
                 "repo": "javacpp",
-                "stars": 4706,
+                "stars": 4705,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -1498,7 +1498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T23:05:53.710Z",
+    "last_updated": "2026-10-10T22:19:38.862Z",
     "original_repository_info": {
       "archived": false,
       "description": "Complex Programmable Logic Device (CPLD) Guide",
